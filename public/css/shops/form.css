@@ -1,0 +1,40 @@
+.section{
+  width: 100%;
+  height: calc(100vh - 145px);
+}
+
+
+.header-title{
+  text-align: center;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.form-title {
+  text-align: center;
+  margin: 15px 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: gray;
+}
+
+.form {
+  display: block;
+  margin: 10px auto;
+}
+
+.note {
+  text-align: center;
+  color: gray;
+  font-size: 10px;
+}
+
+.submit{
+  display: block;
+  margin: 0 auto;
+}
+
+.error-message{
+  text-align: center;
+  color: red;
+}

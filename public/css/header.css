@@ -1,0 +1,51 @@
+header {
+  width: 100%;
+  height: 85px;
+  background-color: aliceblue;
+}
+
+.shop-show{
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 85px;
+}
+
+.header-box{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-decoration{
+  text-decoration: none;
+  color: black;
+}
+
+.header-box-right-ul{
+  display: flex;
+}
+
+.header-box-right-list{
+  display: block;
+  line-height: 85px;
+  text-decoration: none;
+  color: black;
+  margin-right: 30px;
+}
+
+.nav-item-ul{
+  display: flex;
+  line-height: 85px;
+}
+
+.nav-link{
+  margin-right: 30px;
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+
